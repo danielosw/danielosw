@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
-Pronouns are He/Him  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielosw)](https://github.com/anuraghazra/github-readme-stats)  
+Pronouns are he/him  
 I’m currently learning rust and typescript, but their is also a lot more I am interested in learning

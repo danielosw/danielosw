@@ -19,3 +19,4 @@ GearNvim is because it causes lua to dominate the list
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielosw&theme=synthwave&hide=c&exclude_repo=GearNvim)](https://github.com/anuraghazra/github-readme-stats)  
 He/Him.  
+Always wanting to learn new things.  

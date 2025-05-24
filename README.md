@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielosw)](https://github.com/anuraghazra/github-readme-stats)  
-Pronouns are he/him  
-I’m currently learning rust and typescript, but their is also a lot more I am interested in learning
+<!--
+Im excluding c becuase pretty much everything I have used it for is a class project
+GearNvim is because it causes lua to dominate the list
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielosw&theme=synthwave&hide=c&exclude_repo=GearNvim)](https://github.com/anuraghazra/github-readme-stats)  
+He/Him.  

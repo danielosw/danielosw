@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 Im excluding c becuase pretty much everything I have used it for is a class project
 GearNvim is because it causes lua to dominate the list
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielosw&theme=synthwave&hide=c)](https://github.com/anuraghazra/github-readme-stats)  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielosw&theme=synthwave&hide=c)](https://github.com/anuraghazra/github-readme-stats)  -->
 He/Him.  
 Always wanting to learn new things.  
